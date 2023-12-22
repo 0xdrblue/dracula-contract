@@ -1,66 +1,13 @@
-## Foundry
+<h1 align="center">🩸🩸🩸 Dracula Contract 🩸🩸🩸</h1>
+<p align="center">
+    <img src="./assets/banner.png" alt="daobox-banner" />
+    <br>
+    <i>Contract for doing the Vampire Attack on Aave into https://Vampyre.Finance</i>
+    <br>
+</p>
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
-
-Foundry consists of:
-
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
-
-## Documentation
-
-https://book.getfoundry.sh/
-
-## Usage
-
-### Build
-
-```shell
-$ forge build
-```
-
-### Test
-
-```shell
-$ forge test
-```
-
-### Format
-
-```shell
-$ forge fmt
-```
-
-### Gas Snapshots
-
-```shell
-$ forge snapshot
-```
-
-### Anvil
-
-```shell
-$ anvil
-```
-
-### Deploy
-
-```shell
-$ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
-```
-
-### Cast
-
-```shell
-$ cast <subcommand>
-```
-
-### Help
-
-```shell
-$ forge --help
-$ anvil --help
-$ cast --help
-```
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0">🪂🪂 Get your Airdrop here 🪂🪂</a>
+  <br>
+</p>
+<hr>
