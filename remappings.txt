@@ -1,0 +1,10 @@
+@aave/core-v3/=lib/aave-address-book/lib/aave-v3-core/
+@aave/periphery-v3/=lib/aave-address-book/lib/aave-v3-periphery/
+@aave-v3/=aave-v3-core/=lib/aave-v3-core/contracts
+aave-address-book/=lib/aave-address-book/src/
+aave-v3-core/=lib/aave-v3-core/
+aave-v3-periphery/=lib/aave-address-book/lib/aave-v3-periphery/
+ds-test/=lib/forge-std/lib/ds-test/src/
+forge-std/=lib/forge-std/src/
+solmate/=lib/solmate/src/
+vulcan/=lib/vulcan/src/
